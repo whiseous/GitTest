@@ -1,0 +1,1 @@
+thi is a [Zome check ] helper commom utility class
